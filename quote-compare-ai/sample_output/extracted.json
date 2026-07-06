@@ -1,0 +1,44 @@
+[
+  {
+    "carrier_name": "Harbor Point Specialty Insurance",
+    "quote_or_reference_number": "HP-QT-556209",
+    "policy_type": "Commercial General Liability",
+    "effective_date": "2026-07-01",
+    "expiration_date": "2027-06-30",
+    "annual_premium_usd": 4390.00,
+    "each_occurrence_limit_usd": 1000000,
+    "aggregate_limit_usd": 2000000,
+    "deductible_usd": 500,
+    "key_exclusions": ["Cyber events", "Flood-related losses"],
+    "payment_terms": "Monthly installment plan available (+4% fee)",
+    "_source_file": "quote_harbor_point.pdf"
+  },
+  {
+    "carrier_name": "Summit Mutual Insurance Group",
+    "quote_or_reference_number": "SM-2026-88214",
+    "policy_type": "Commercial General Liability",
+    "effective_date": "2026-08-01",
+    "expiration_date": "2027-08-01",
+    "annual_premium_usd": 4850.00,
+    "each_occurrence_limit_usd": 1000000,
+    "aggregate_limit_usd": 2000000,
+    "deductible_usd": 1000,
+    "key_exclusions": ["Cyber liability", "Flood damage", "Employment practices"],
+    "payment_terms": "Annual, or quarterly with 3% surcharge",
+    "_source_file": "quote_summit_mutual.pdf"
+  },
+  {
+    "carrier_name": "Pacific Crest Underwriters",
+    "quote_or_reference_number": "PCU-77341-A",
+    "policy_type": "Commercial General Liability",
+    "effective_date": "2026-09-15",
+    "expiration_date": "2027-09-15",
+    "annual_premium_usd": 5275.50,
+    "each_occurrence_limit_usd": 1000000,
+    "aggregate_limit_usd": 2000000,
+    "deductible_usd": 2500,
+    "key_exclusions": ["Cyber incidents", "Flood", "Professional errors & omissions"],
+    "payment_terms": "2% early-payment discount if paid in full within 10 days",
+    "_source_file": "quote_pacific_crest.pdf"
+  }
+]
